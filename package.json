@@ -1,0 +1,15 @@
+{
+  "name": "first_pwa",
+  "version": "1.0.0",
+  "description": "First PWA hello world",
+  "main": "main.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SS",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "0.12.0"
+  }
+}
